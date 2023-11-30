@@ -1,16 +1,16 @@
-# NVIDIA RAG LLM Operator
+# NVIDIA RAG LLM Operator for Developers
 
-## About the RAG LLM Operator
+## About the Operator
 
-The NVIDIA Retrieval Augmented Generation (RAG) Large Language Model (LLM) Operator
-enables cluster administrators to operate and manage the lifecycle of the
+The NVIDIA Retrieval Augmented Generation (RAG) Large Language Model (LLM) Operator for Developers
+enables data scientists and developers to operate the
 software components that are necessary to run RAG pipelines in Kubernetes.
 
 ## About the RAG LLM Operator Documentation
 
 This repository contains the product documentation for the Operator.
 
-Product documentation for the Operator is available from <FIXME>.
+Developer documentation for the Operator is available from <FIXME>.
 
 ## Building the Documentation
 
